@@ -1,2 +1,2 @@
 # vladimirchizhenkov.github.io
-Some sh~t
+It's some sh#t -_-
