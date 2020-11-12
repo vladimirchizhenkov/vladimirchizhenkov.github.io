@@ -1,2 +1,2 @@
 # vladimirchizhenkov.github.io
-Bro test
+Some sh~t
